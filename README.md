@@ -1,1 +1,1 @@
-This is a calculator to make your calculations easy and fast 
+Its a calculator to make your calculations Easy and Fast 
